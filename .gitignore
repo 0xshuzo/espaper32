@@ -1,0 +1,5 @@
+/build*/
+/.pio/
+/.cache/
+/.vscode/
+/.clangd
